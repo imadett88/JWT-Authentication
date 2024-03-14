@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YgN63GmPgMM0qUphIPsoeLDDUqbUIsh+V7edjVcNHtI=",
+  "Source": "JwtAuthApp",
+  "BasePath": "_content/JwtAuthApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
